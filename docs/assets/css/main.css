@@ -68,13 +68,14 @@ h4 {
   .transkription {
     font-family: 'Courier New';
     margin-right: 2.5cm; margin-left: 7.5cm; 
-    text-align: center; 
+    text-align:center; 
+    border: 1px black;
   }
 
 #details {
     padding: 2vw;
     margin: 1vw;
-    text-align: center;    
+    text-align:center;    
 }
 
 footer {
