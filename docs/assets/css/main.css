@@ -82,8 +82,9 @@ h4 {
 }
   .transkription {
     font-family: 'Courier New', Courier, monospace;
-    margin-right: 4.5cm; margin-left: 4.5cm; 
-    text-align:center; 
+    margin-right: 2.5cm; margin-left: 7.5cm; 
+    text-align:center;
+
 
   }
 
@@ -102,12 +103,10 @@ margin-left: 130px;
 font-size: 14px;
 text-align: right-align;
   }
+
 #main-div
 {width: 100%;
     
-
-
-
 }
   
 #details {
