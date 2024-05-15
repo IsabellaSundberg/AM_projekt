@@ -21,6 +21,9 @@ nav {
 
 h2 {
     text-align: right;
+    font-size:2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 
 h3 {
@@ -35,7 +38,9 @@ h4 {
     text-decoration: underline; 
     margin-top: 50px; 
     margin-bottom: 20px;
-    font-family: 'Courier New' 
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    
 }
     table {
     width: 100%; 
@@ -45,7 +50,7 @@ h4 {
    td, th {
     padding: 8px; 
     border: none; 
-    font-family: 'Courier New'
+    font-family: 'Courier New', Courier, monospace;
 }
      .centered-text {
     text-align: center;
@@ -57,30 +62,65 @@ h4 {
 
 .text-box {
     width: 300px; 
-    padding: 20px; 
-    background-color: none; 
+    padding: 20px;
     text-align: left; 
     margin-left: auto; 
-    margin-right: 0; 
-    border: none; 
-    font-family: 'Courier New';
-  }
-  .transkription {
-    font-family: 'Courier New';
-    margin-right: 2.5cm; margin-left: 7.5cm; 
-    text-align: center; 
+    margin-right: 0;  
+    font-family: 'Courier New', Courier, monospace;
   }
 
+.text-box2 {
+  float: right;
+  width: 40px; 
+  padding: 20px; 
+  background-color: none; 
+  text-align: left;
+  margin-top: 0; 
+  margin-right: 0; 
+  border: none; 
+  font-family: 'Courier New', Courier, monospace;
+}
+  .transkription {
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 2.5cm; margin-left: 7.5cm; 
+    text-align:center;
+
+
+  }
+
+  .description {
+    flex: 1;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
+border-left:1px solid black;
+border-right: 1px solid black; 
+min-height: 400px;
+padding: 5px;
+width: 30%;
+float:left;
+margin-right: 50px;
+margin-left: 130px;
+font-size: 14px;
+text-align: right-align;
+  }
+
+#main-div
+{width: 100%;
+    
+}
+  
 #details {
     padding: 2vw;
     margin: 1vw;
-    text-align: center;    
+    text-align:center;    
 }
 
-footer {
+#footer {
+    
     border-top: 1px solid black;
     padding-top: 1vw;
     margin-top: 1vw;
+    text-align:center;
 }
 
 .copyright {
@@ -99,8 +139,14 @@ footer {
 
 .row {
     padding: 1vw;
+    
 }
 
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
 #collection {
     display: flex;
@@ -113,7 +159,29 @@ footer {
 }
 
 .img-full {
-    margin: 5px;
+ flex: 1;
     border: 1px solid black;
     width: 500px;
+    min-height: 400px;
+    margin-left: 40px;
+   
+    
+    
+}
+.links {
+    flex:1;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left:1px solid black;
+    border-right: 1px solid black; 
+    min-height: 400px;
+    padding: 5px;
+    width: 20%;
+    float:right;
+    margin-right: 10px;
+    margin-left: 0px;
+    font-size: 14px;
+    text-align: right-align;
+      
+
 }
