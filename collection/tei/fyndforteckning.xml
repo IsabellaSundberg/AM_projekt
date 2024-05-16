@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fyndförteckning</title>
+            <author> Henry Simonsson </author>
+            <principal>Hummelbacken</principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Digitaliseringsprojekt Hummelbacken</publisher>
+            <date>05-2024</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>
+                     Transcription distributed under a CC-BY-SA 4.0 license.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Fjorton A-4-sidor med maskinskriven text</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <p>
+            <table rows="29" cols="6">
+               <note>Inv 14548</note>
+               <head>Fyndförteckning</head>
+            
+               <row>
+               <cell role="label"> F-nr </cell>
+                  <cell role="label"> A-nr </cell>
+                  <cell role="label"> Fotoplan </cell>
+                  <cell role="label"> Bel. </cell>
+                  <cell role="label"> Höjd. </cell>
+                  <cell role="label"> Beskrivning </cell>
+               </row>
+            
+            <row>
+               <cell> F 1 </cell>
+               <cell></cell>
+               <cell> A 7: I </cell>	
+               <cell> <location><geo>030  213</geo></location> </cell>	  
+               <cell> -120 </cell>	
+               <cell> Lösfynd, vid rensning: <objectType xml:id="parla_F1">Pärla av bergkristall</objectType> </cell>
+            </row>
+            
+            <row>
+               <cell> F 2 </cell>		
+               <cell></cell>
+               <cell> A10:I </cell>	
+               <cell> <location><geo>021 217</geo></location> </cell>	 
+               <cell> -86 </cell>	
+               <cell> Lösfynd, funnet vid rensning omedelbart ovanför <material>svartjordslagrets</material> yta: <objectType xml:id="jarnnitar_F2">Nitar av järn</objectType>, 2 st <objectType xml:id="hasttand_F2">Hästtand</objectType> </cell>
+            </row>
+               
+            <row>
+               <cell> F 3 </cell>
+               <cell></cell>
+               <cell></cell>
+               <cell> <location><geo>020 213</geo></location> </cell>
+               <cell></cell>
+               <cell> I bergsskreva, lösfynd: <objectType xml:id="jarnfragment_F3">Järnfragment</objectType> </cell>
+            </row>
+               
+            <row>
+               <cell> F 4 </cell>
+               <cell></cell>
+               <cell> A11 </cell>	
+               <cell> <location><geo>020 220</geo></location> </cell>	      
+               <cell> -91 </cell>	
+               <cell> I <material>jordlager</material> utanför <material>svartjordslager</material>: <objectType xml:id="jarnspik_F4">Spik av järn</objectType>. </cell>
+            </row>
+               
+            <row>   
+               <cell> F 5 </cell>
+               <cell></cell>
+               <cell> A 11 </cell>	
+               <cell> <location><geo>020 220</geo></location> </cell>	     
+               <cell> -91 </cell>	
+               <cell> <objectType xml:id="nitbricka_F5">Nitbricka av järn</objectType> </cell>
+            </row>
+               
+            <row>
+               <cell> F 6 </cell>	
+               <cell> A 11 </cell>	
+               <cell> A 11 </cell>	
+               <cell> <location><geo>019 220</geo> <geo>022 223</geo></location> </cell>	    
+               <cell>-83 -88</cell>	
+               <cell> I <material>svartjordslager</material>: <objectType xml:id="branda_ben_F6">Brända ben</objectType>, 3 liter I <material>svartjordslagrets</material> centrum: <objectType xml:id="jarnnitar_F6">Järnnitar</objectType>, 20-tal, samt <objectType xml:id="jarnfragment_F6">järnfragment</objectType> <objectType xml:id="kambitar_F6">Kambitar</objectType> <objectType xml:id="lerkarl_F6">Lerkärl</objectType>, under flat stenskiva <objectType xml:id="dubbelparla_F6">Blå dubbelpärla av glas</objectType>. </cell>
+            </row>
+               
+            <row>
+               <cell> F 7 </cell>	
+               <cell> A 9 </cell>	
+               <cell> A 9 </cell>	
+               <cell> <location><geo>017 219</geo></location> </cell>	      
+               <cell> -82 </cell>	
+               <cell> Omedelbart under <material>stenpackning</material>, i <material>jordfyllning</material>: <objectType xml:id="sillkarl_F7">Skärva av silkärl</objectType> </cell>
+            </row>
+               
+            <row>
+               <cell> F 8 </cell>	
+               <cell> A 9 </cell>	
+               <cell> A 9 </cell>	
+               <cell> <location><geo>014 217</geo> <geo>017 219</geo></location> </cell>	     
+               <cell> -95 -106 </cell>	
+               <cell> I <material>svartjordslager</material>, under <material>stenpackning</material>: <objectType xml:id="bronsspanne_F8">Spänne av brons </objectType> <objectType xml:id="svard_F8">Svärd av järn</objectType> i två delar <objectType xml:id="jarnfragment_F8">Järnfragment, bl.a. nitar</objectType> <objectType xml:id="benkamfragment_F8">Benkam</objectType>, 70-tal fragment <objectType xml:id="lerkarl_F8">Lerkärl</objectType> I, samt <objectType xml:id="krukskarvor_F8">krukskärvor</objectType> II,IlI,IV <objectType xml:id="branda_ben_F8">Brända ben</objectType>, 5 liter </cell>
+            </row>
+            
+            <row>
+               <cell> F 9 </cell>	
+               <cell></cell>
+               <cell></cell>
+               <cell> <location><geo>022 217</geo></location> </cell>	      
+               <cell> -90 </cell>	
+               <cell> I <material>svartjordslager</material>: <objectType xml:id="nithuvud_F9">Rombiskt nithuvud av järn</objectType> 2 delar av <objectType xml:id="jarnring_F9">järnring</objectType> 4 <objectType xml:id="jarnnitar_F9">nitar av järn</objectType> <objectType xml:id="lerkarl_F9">Lerkärl</objectType> <objectType xml:id="branda_ben_F9">Brända ben</objectType>, 1 liter </cell>
+            </row>
+               
+            <row>   
+               <cell> F 10 </cell>	
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell> <objectType xml:id="krukskarva_F10">Krukskärva</objectType> </cell>
+            </row>
+               
+            <row>
+               <cell> F 11 </cell>	
+               <cell> A 4 </cell>	
+               <cell> A 4 </cell>	
+               <cell> <location><geo>017 210</geo> <geo>019 212</geo></location> </cell>
+               <cell> -63 -97 </cell>	
+               <cell> Utspridda i <material>svartjordslager</material>: <objectType xml:id="hastbrodd_F11">Hästbrodd av järn</objectType> <objectType xml:id="nitar_av_jarn_F11">Nitar av järn</objectType> och fragment av dito <objectType xml:id="bryne_F11">Bryne</objectType>, i bitar <objectType xml:id="parla_av_glassfluss_F11">Pärla av glasfluss</objectType> <objectType xml:id="kambitar_F11">Kambitar</objectType> </cell>
+            </row>
+            
+            <row>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell> <location><geo>019 211</geo></location> </cell>
+               <cell> -73 </cell>
+               <cell> <objectType xml:id="lerkarl_F11">Lerkärl</objectType> <objectType xml:id="djurklor_F11">Djurklor</objectType> och <objectType xml:id="djurtander_F11">djurtänder</objectType> <objectType xml:id="branda_ben_F11">Brända ben</objectType>, 7,3 liter </cell>
+            </row>
+            
+            <row>
+               <cell> F 12 </cell>	
+               <cell> A 16 </cell>	
+               <cell> A10:I </cell>	
+               <cell> <location><geo>025 216</geo> <geo>029 219</geo></location> </cell>	  
+               <cell> -137 -154 </cell>	
+               <cell> I <material>svartjordslager</material>: <objectType xml:id="jarnnit_F12">Järnnit</objectType> <objectType xml:id="branda_ben_F12">Brända ben</objectType>, ett fåtal </cell>
+            </row>
+               
+            <row>
+               <cell> F 13 </cell>	
+               <cell> A 6 </cell>	
+               <cell> A 6 </cell>	
+               <cell> <location><geo>024 212</geo></location> </cell>	  
+               <cell> -102 </cell>	
+               <cell> I <material>jordfyllning</material> under <material>stenpackning</material>: <objectType xml:id="krukskarvor_F13">Krukskärvor</objectType> <objectType xml:id="lerkliningsbitar_F13">Lerkliningsbitar</objectType> <objectType xml:id="branda_ben_F13">Brända ben</objectType>, 0,05 liter </cell>
+            </row>
+               
+            <row>
+               <cell> F 14 </cell>	
+               <cell> A 4 </cell>	
+               <cell> A 4 </cell>	
+               <cell> <location><geo>018 211</geo></location> </cell>	   
+               <cell> -74 </cell>	
+               <cell> I <material>kollager</material> i <material>svartjordslagrets</material> centrum: <objectType xml:id="lerkarl_F14">Lerkärl</objectType> <objectType xml:id="branda_ben_F14">Brända ben</objectType>, 0,3 liter </cell>
+            </row>
+               
+            <row>
+               <cell> F 15 </cell>
+               <cell></cell>
+               <cell> A 5 </cell>	
+               <cell> <location><geo>022 208</geo></location> </cell>	 
+               <cell> -131 </cell>	
+               <cell> I <material>svartjordslager</material> under A 5: <objectType xml:id="lerkarl_F15">Lerkärl</objectType> </cell>
+            </row>
+               
+            <row>
+               <cell> F 16 </cell>	
+               <cell> A 3 </cell>	
+               <cell> A 1 </cell>	
+               <cell> <location><geo>002 207</geo></location> </cell>	  
+               <cell> -249 </cell>	
+               <cell> I <material>mörkjordslager</material> under 0,4 x 0,2 m stor sten: <objectType xml:id="lerkarl_F16">Lerkärl</objectType> </cell>
+            </row>
+            
+            <row>
+               <cell> F 17 </cell>	
+               <cell> A 3 </cell>	
+               <cell> A 1 </cell>	
+               <cell> <location><geo>002 208</geo></location> </cell>	
+               <cell> -257 </cell>	
+               <cell> I <material>mörkjordslager</material>: <objectType xml:id="knivfragmet_F17">Kniv</objectType> och <objectType xml:id="jarnnal_F17">nål av järn</objectType>, fragmentariska </cell>
+            </row>
+               
+            <row>
+               <cell> F 18 </cell>	
+               <cell> A 2 </cell>	
+               <cell> A 1 </cell>	
+               <cell> <location><geo>003 209</geo></location> </cell>	
+               <cell> -254 </cell>	
+               <cell> Under mindre stensamling i <material>mörkjordslagret</material>: <objectType xml:id="lerkarl_F_18">Lerkärl</objectType>, sönderpressat </cell>
+            </row>
+               
+            <row>
+               <cell> F 19 </cell>	
+               <cell> A 3 </cell>	
+               <cell> A 1 </cell>	
+               <cell> <location><geo>003 207</geo></location> </cell>	
+               <cell> -253 </cell>	
+               <cell> I <material>mörkjordslager</material>: <objectType xml:id="krukskarva_F19">Krukskärva, ornerad</objectType>. </cell>
+            </row>
+               
+            <row>
+               <cell> F 20 </cell>	
+               <cell> A 3 </cell>	
+               <cell> A 1 </cell>	
+               <cell> <location><geo>002 207</geo> <geo>003 208</geo></location> </cell>	
+               <cell> -250 </cell>	
+               <cell> I <material>mörkjordslager</material>, utspridda över ett 0,5 m stort område: <objectType xml:id="kambitar_F20">Kambitar</objectType> <objectType xml:id="branda_ben_F20">Brända ben</objectType>, ej tillvaratagna <objectType xml:id="flintavslag_F20">Flintavslag</objectType> <objectType xml:id="djurtand_F20">Djurtand</objectType>. </cell>
+            </row>
+               
+            <row>
+               <cell> F 21 </cell>	
+               <cell> A 2 </cell>	
+               <cell> A 1 </cell>	
+               <cell> <location><geo>005 206</geo></location> </cell>	
+               <cell> -226</cell>	
+               <cell> I <material>mörkjordslager</material> under större flat sten och kringsatt av stenar: <objectType xml:id="lerkarl_F21">Lerkärl</objectType>, sönderpressat <objectType xml:id="branda_ben_F21">Brända ben</objectType>, ett fåtal </cell>
+            </row>
+               
+            <row>
+               <cell> F 22 </cell>	
+               <cell> A 20 </cell>	
+               <cell> A 1 </cell>	
+               <cell> <location><geo>007 206</geo></location> </cell>	 
+               <cell> -242</cell>	
+               <cell> I <material>svartjordslager</material>, omedelbart under <material>stenpackningen</material>: <objectType xml:id="lerkarl_F22">Lerkärl</objectType>, sönderpressat </cell>
+            </row>
+               
+            <row>
+               <cell> F 23 </cell>	
+               <cell> A 20 </cell>	
+               <cell> A 1 </cell>	
+               <cell> <location><geo>006 206</geo> <geo>008 207</geo></location> </cell>	
+               <cell> -238 -262 </cell>	
+               <cell> Utspridda i <material>kollager</material>: Fragment av enskalig <objectType xml:id="spannbuckla_F23">spännbuckla av brons</objectType> <objectType xml:id="jarnfragment_F23">Järnfragment</objectType>, 6 st <objectType xml:id="kambitar_F23">Kambitar</objectType>, 20-tal <objectType xml:id="glasparlor_F23">Pärlor av glas eller glasfluss</objectType>, 64 st <objectType xml:id="branda_ben_F23">Brända ben</objectType>, 2 liter </cell>
+            </row>
+               
+            <row>
+               <cell> F 24 </cell>	
+               <cell> A 19 </cell>	
+               <cell> A7:I </cell>	
+               <cell> <location><geo>028 212</geo> <geo>031 214</geo></location> </cell>	
+               <cell> -125 -134 </cell>
+               <cell> I <material>svartjordslager</material>: Fragment av <objectType xml:id="bryne_F24">bryne av sandsten</objectType> <objectType xml:id="kambitar_F24">Kambitar</objectType> <objectType xml:id="krukskarvor_F24"> Krukskärvor</objectType> <objectType xml:id="branda_ben_F24">Brända ben</objectType> </cell>
+            </row>
+               
+            <row>
+               <cell> F 25 </cell>	
+               <cell> A 12 </cell>	
+               <cell> A 9 </cell>	
+               <cell> <location><geo>013 223</geo> <geo>014 224</geo></location> </cell>	 
+               <cell> -94 -105 </cell>	
+               <cell> I <material>svartjordslager</material>: <objectType xml:id="lerklining_F25">Lerklining</objectType>. </cell>
+            </row>
+               
+            <row>
+               <cell> F 26 </cell>	
+               <cell> A 12 </cell>	
+               <cell> A 9 </cell>	
+               <cell> <location><geo>013 223</geo> <geo>014 224</geo></location> </cell>	 
+               <cell> -94 -105 </cell>	
+               <cell> I samma <material>svartjordslager</material> som ovan: <objectType xml:id="jarnfragment_F26">Fragment av järn</objectType>, 3 st <objectType xml:id="krukskarva_F26">Krukskärva</objectType> <objectType xml:id="tander_F26">Tänder av människa</objectType> <objectType xml:id="branda_ben_F26">Brända ben</objectType>, 1 liter </cell>
+            </row>
+               
+            <row>
+               <cell> F 27 </cell>	
+               <cell> A 1 </cell>	
+               <cell> A 1 </cell>	
+               <cell> <location><geo>000 204</geo> <geo>002 206</geo></location> </cell>	 
+               <cell> -296 </cell>	
+               <cell> I <material>kollager</material> i anläggningens centrum:
+                  <objectType xml:id="krukskarvor_F27">Krukskärvor</objectType> <objectType xml:id="branda_ben_F27">Brända ben</objectType>, 0,8 liter </cell>
+            </row>
+            </table>
+         </p>
+      </body>
+  </text>
+</TEI>
