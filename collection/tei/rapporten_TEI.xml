@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rapport</title>
+                <author> Henry Simonsson </author>
+                <principal>Hummelbacken</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Digitaliseringsprojekt Hummelbacken</publisher>
+                <date>Maj 2024</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        <p>
+                            Transcription distributed under a CC-BY-SA 4.0 license.
+                        </p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Fjorton A-4-sidor med maskinskriven text</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <note>Inv. nr. 14548</note>
+            <head>ANLÄGGNINGSRAPPORTER</head>
+            
+            <head><location xml:id="A_1" type="anläggning">Anläggning 1.</location></head>
+            
+            <p>Belägenhet: <location><geo>000 202 004 208</geo></location>
+                Fotoplan: A 1, skala 1:50
+                Profil: <location><geo>000 205 – 030 215</geo></location>, skala 1:20
+                Kop: 2
+            </p>
+            
+            <p> Anläggningen utgjordes av en närmast rund, övertorvad <material>stenpackning</material> med ca 4 m diam. Anläggningen var belägen i västsluttning nedanför berg i dagen. 
+                Före undersökningen var den synlig som en svag, oregelbunden förhöjning med enstaka 0,2 - 0,4 m stora <material>stenar</material> i ytan. 
+                Fornlämningen var ej medtagen i Riksantikvarieämbetets inventering.
+                Efter avtorvningen visade det sig, att anläggningen sträckte sig längre ut mot V, under der plana utfyllda partiet nedanför sluttningen. 
+                Centrum var således förskjutet åt V i förhållande till den i markytan markerade förhöjningen.
+                Den västligaste delen kom att ligga något utanför det redan fixerade rutnätets V gränslinje.
+                Den oregelbundet lagda <material>stenpackningens</material> begränsning i V - S var tydligt markerad, medan den 1 N - Ö omärkligt övergick i <location xml:id="A_2" type="anläggning">A 2</location>. 
+                <material>Stenpackningen</material> närmast <material>torven</material> bestod av i allmänhet 0,3 – 0,8 m stora stenar, enstaka intill 1,2 m stora. 
+                Därunder var dess material finare med stenar om 0,1 - 0,4 m liggande i <material>mörkjordslager</material>.
+                Detta lager, som i centrum hade en tjocklek av 0,4 m, förekom under hela anläggningen och fortsatte direkt över till <location xml:id="A_2" type="anläggning">A 2</location> och A 3. 
+                Under det <material>mörka jordlagret </material>vidtog ett <material>svartjordslager</material>, vilket i sin centrala del överst avgränsades av ett 1,7 x 1,3 m stort och 0,1 m 
+                tjockt skikt av <material>kol</material>, <object xml:id="branda_ben_F27">brända ben </object>och <object xml:id= "krukskravor_F27">enstaka krukskärvor</object>.
+                Under <material>kollagret</material> utfyllde <material>svartjordslagret</material> en fördjupning om 0,6 m och utvidgade sig åt N och V till anläggningens gräns, medan det i 
+                SÖ och ö fortsatte under A 3 och A 2, där det tunnades ut. <material>Svartjordslagret</material> innehöll även <material>kol</material> och <material>skörbränd sten</material>. 
+                <material>Svartjordslagret</material> vilade på botten av <material>sand</material> och <material>grus</material>.
+            </p>
+            
+            <p>Fynd:</p>  
+            <table rows="4" cols="2">
+                <row>
+                    <cell>F 27</cell>
+                    <cell>I väl avgränsade <material>kollagret</material> i anl.</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell>centrum:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><object xml:id= "krukskravor_F27"> Krukskärvor</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><object xml:id="branda_ben_F27"> Brända ben </object>, 0,8 liter</cell>
+                </row>     
+            </table>
+            
+            <head><location xml:id="A_2" type="anläggning">Anläggning 2.</location></head>
+            <note>Inv. nr. 14548: 2</note>
+            <p>
+                Belägenhet: <location><geo>002 - 205 006  209</geo></location> 
+                Fotoplan: A 1, skala 1:50
+                Profil: 000 205 - 030 215, skala 1:20
+            </p>
+            <p>Anläggningen utgjordes av en närmast rund, i NÖ kanten skadad, övertorvad <material>stenpackning</material>, ca 4 m diam och 0,2 m hög. 
+                Den var belägen i västsluttning omedelbart nedanför berg i dagen och var före undersökningen synlig som en obetydlig förhöjning med endast ett par 0,4 m stora <material>stenar</material> i markytan.
+                Efter avtorvningen blottades en tämligen oregelbunden <material>stenpackning</material> av 0,3 - 0,8 m stora <material>stenar</material>. I anläggningens centrum var
+                en 1,1 m lång och 0,6 m bred, plan <material>sten</material>, nu i två delar, vilken möjligen tidigare varit rest. Omedelbart NV därom två större <material>stenar</material>.
+                De mäktiga <material>mörk- och svartjordslager</material>, som från A 1 fortsatte under A2, tunnades av mot Ö kanten, där <material>svartjordslagret</material> slutade i en koncentration av <material>svartjord</material> och <material>kol</material>. 
+                Under den flata <material>stenen</material>, kringsatt av 0,2 - 0,3 m stora <material>stenar</material>, påträffades en delvis hoptryckt <object xml:id="urna_F_21">urna</object> in situ (F 21). Ytterligare ett sönderpressat <object xml:id="lerkarl_F_18">lerkärl</object>(F 18)
+                stod under en samling av decimeterstora <material>stenar</material> i <material>mörkjordslagret</material> i anläggningens NV del.
+            </p>
+           <p>Fynd:</p> 		
+            <table rows="7" cols="3"> 
+                <row>
+                    <cell>F 18:</cell>
+                    <cell><location><geo>003 209</geo></location>  -254</cell>
+                    <cell>Under mindre stensamling i <material>mörkjordslagret</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell>rester av <object xml:id="lerkarl_F_18">ett sönderpressat lerkärl </object></cell>
+                </row>
+                <row>
+                    <cell>F 21:</cell>
+                    <cell><location><geo>005 206</geo></location>	-226</cell>
+                    <cell>  I <material>mörkjordslagret</material> under större flat</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><material>sten</material> och kringsatt av <material>stenar</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="urna_F_21">ett sönderpressat lerkärl</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="branda_ben_F_21">Brända ben</object>, ett fåtal</cell>
+                </row>                                                                  
+            </table>
+            
+            <head><location xml:id="A_3" type="anläggning">Anläggning 3.</location></head>
+            <p>Belägenhet: <location><geo>002 200 006 205</geo></location> 
+                Fotoplan: A 1, skala 1:50
+                Kop: 2
+            </p>
+            <p>Anläggningen, som ursprungligen sannolikt varit rund, utgjordes nu av en gles <material>stenpackning</material> med ca 1 m diam i anläggningens centrum, 
+                samt i V - N rester av en gles kantkedja av 0,2 – 0,8 m stora stenar. Den södra och östra delen av anläggningen, som gränsade mot åker, 
+                var helt bortschaktad genom dikesgrävning. Stensättningen var övertorvad och före undersökningen ej möjlig att upptäcka.
+                Under "mittröset" frilades ytterligare en <material>stenpackning</material> om 0,2 - 0,4 m stora stenar i 0,4 m tjockt <material>mörkjordslager</material>. 
+                Detta lager innehöll ett fåtal <object xml:id="branda_ben_F20">brända ben</object> och ett <object xml:id="kambitar_F20">10-tal kambitar med enkel linjeornering</object>. Under en 0,3 x 0,4 m stor sten lågo resterna av <object xml:id="lerkarl_F16">ett starkt sönderpressat lerkärl</object>, 
+                med botten i vertikalt läge framskymtande vid stenens undre kant. I övrigt påträffades <object xml:id="flintavslag_F20">ett litet flintavslag</object> samt <object xml:id="krukskarva_F19">en krukskärva med insvängd mynningsrand och gropornering på skuldran</object>.
+                I V kanten av lagret slutligen framkom <object xml:id="knivfragmet_F17">en starkt förrostad kniv av järn</object> samt <object xml:id="jarnnal_F17">ett fragment av järnnål</object>. <material>Mörkjordslagret</material> vilade direkt på rester av det starkt uttunnade 
+                <material>svartjordslagret</material> från A 1 och A 2. Botten utgjordes av <material>grus</material> och <material>sand</material>.
+            </p>
+            
+            Fynd:
+            <table rows="13" cols="3">		
+                <row>
+                    <cell> F 17:</cell>
+                    <cell><location><geo>002 208</geo></location>	-257</cell>
+                    <cell>I <material>mörkjordslager</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="knivfragmet_F17">Fragment av kniv</object> och <object xml:id="jarnnal_F17">nål av järn</object></cell>
+                </row>
+                <row>
+                    <cell>F 16:</cell>
+                    <cell><location><geo>002 207</geo></location> -  -249</cell>
+                    <cell>I <material>mörkjordslager</material> under 0,4 x 0,2 m</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell>stor sten:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="lerkarl_F16">Lerkärl</object></cell>
+                </row>
+                <row>
+                    <cell>F 19:</cell>
+                    <cell><location><geo>003 207</geo></location>	-253</cell>
+                    <cell>I <material>mörkjordslager</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="krukskarva_F19">Krukskärva, ornerad</object></cell>
+                </row>
+                <row>
+                    <cell>F 20:</cell>
+                    <cell><location><geo>002 207</geo></location>	-250</cell>
+                    <cell>I <material>mörkjordslagret</material>, utspridda över ett</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><location><geo>003 208</geo></location></cell>
+                    <cell>0,5 m stort område:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="kambitar_F20"> Kambitar</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="branda_ben_F20">Brända ben</object>, ej tillvaratagna</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="flintavslag_F20">Flintavslag</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="djurtand_F20">Djurtand</object></cell>
+                </row>                                                                
+            </table>
+            
+            <head><location xml:id="A_4" type="anläggning">Anläggning 4.</location></head>
+            <p>Belägenhet: <location><geo>016 208 021 214</geo></location>
+                Fotoplan: A 4, skala 1:50
+                Profil: 000 205 - 030 215, skala        
+                1:20
+                Kop: 3
+            </p>
+            <p> Anläggningen utgjordes av en rund stensättning, 5 m diam och 0,3 m hög, belägen på högsta partiet av berget. 
+                Den var helt övertorvad och bevuxen med långt <material>gräs</material> och <material>torra buskar</material>.
+                Genom avtorvningen blottades en tämligen väl lagd <material>stenpackning</material> av i allmänhet 0,4 m stora stenar, enstaka voro upp till 0,6 m stora.
+                Fyllningen bestod av <material>mörkfärgad jord</material>. Under <material>stenpackningen</material> låg ett utbrett <material>svartjordslager</material>, ca 2 m i diam och 0,06 - 0,3 m
+                tjockt, innehållande <object xml:id="branda_ben_F11">brända ben</object>. <material>Svartjordslagret</material> vilade i sin V del på ett tunt jordskikt, vilket i sin tur låg direkt på berg. 
+                I sin ö del låg <material>svartjordslagret</material> på sterilt bottengrus. I <material>svartjordslagret</material> påträffades ett <object xml:id="lerkarl_F11">lerkärl</object> (F 11), vilket dock vid upptagandet föll sönder. 
+                Inom hela lagrets yta fanns <object xml:id="kambitar_F11">ett 60-tal fragment av benkam</object>, <object xml:id="bryne_F11">40-tal delar av bryne</object>, <object xml:id="djurklor_F11">15-tal djurklor</object>,<object xml:id="djurtander_F11">10-tal djurtänder</object>, <object>15-tal nitar + fragment av dito</object>, 
+                <object xml:id="hastbrodd_F11">1 brodd av järn</object> samt <object xml:id="parla_av_glassfluss_F11">en pärla av glasfluss</object> (alltsammans hänfört till F 11). I centrum av <material>svartjordslagret</material> var ett 1 m stort område 
+                med starkare koncentration av <material>kol</material>. Inom detta område stod <object xml:id="lerkarl_F14">ett lerkärl</object> (F 14) med botten och sidorna intill 5 cm höjd på plats. 
+                Kärlet var dock i dåligt skick och måste plockas upp i bitar. Innehållet bestod av <material>svart jord</material> och <object xml:id="branda_ben_F14">porösa brända ben</object>.
+            </p>
+            <p>Fynd:</p>
+            <table rows="12" cols="3">
+                <row>
+                    <cell>F 11:</cell>
+                    <cell><location><geo>017 210</geo></location>-63</cell>
+                    <cell>Utspridda i hela <material>svartjordslagret</material>:</cell>
+                </row>	
+                <row>
+                    <cell></cell>
+                    <cell><location><geo>019 212</geo></location>-97</cell>
+                    <cell><object xml:id="hastbrodd_F11">Hästbrodd av järn</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="nitar_av_jarn_F11">Nitar av järn och fragment av dylika</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="bryne_F11">Bryne, i bitar</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="parla_av_glassfluss_F11">Pärla av glasfluss</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="kambitar_F11">Kambitar</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><location><geo>019 211</geo></location> -73</cell>
+                    <cell><object xml:id="lerkarl_F11">Lerkärl</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="djurklor_F11">Djurklor</object> och <object xml:id="djurtander_F11">djurtänder</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="branda_ben_F11">Brända ben</object>, 7, 3 liter</cell>
+                </row>
+                <row>
+                    <cell>F 14:</cell>
+                    <cell><location><geo>018 211</geo></location> -74</cell>
+                    <cell>I <material>kollager</material> i <material>svartjordslagrets</material> centrum,</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="lerkarl_F14">Lerkärl</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="branda_ben_F14">Brända ben</object>, 0,3 liter</cell>
+                </row>                                                                                                                      
+               </table>
+            
+              <head><location xml:id="A_5" type="anläggning">Anläggning 5</location>.</head>
+                <p>Belägenhet: <location><geo>023 205 026 209 </geo></location>
+              Fotoplan: A 5, skala 1:50 
+              Profil: 025 206 - 020 225, skala  
+              1:20 
+              Kop: 1 </p>
+            <p>Anläggningen utgjordes av en ursprungligen sannolikt rund  stensättning, som genom odling till stor del schaktats bort. 
+                Den nuvarande anläggningen var ca 2,5 x 3,5 m stor och före avtorvningen endast synlig som en svag, oregelbunden förhöjning med några 0,4 - 0,9 m stora stenar i ytan. 
+                Under <material>torven</material> framkom en oregelbunden, delvis omplockad enskiktad <material>stenpackning</material> med 0,1 - 0,7 m stora stenar. I anläggningens N  kant låg ett 0,6 x 1,5 m 
+                stort stenblock. Fyllningen bestod av <material>mörkfärgad jord</material>. Under <material>stenpackningen</material> påträffades ett <material>svartjordslager</material>, 
+                vilket även fortsatte under <location xml:id="A_6" type="anläggning">A 6</location>. Detta lager vilade i sin S del på berg, i övrigt på <material>sterilt bottengrus</material>. I <material>svartjordslagret</material>, 
+                som innehöll rikligt med <material>skärvsten</material>, påträffades ett <object xml:id="lerkarl_F15">lerkärl</object>, liggande på sidan, med delar av sidorna samt botten in situ. (F 15). 
+                <object xml:id="lerkarl_F15">Lerkärlet</object> innehöll endast <material>svartjord</material>. 
+            </p>
+            <p>Fynd:</p> 
+            <table rows="2" cols="3">
+                <row>
+                    <cell> F 15:</cell>
+                    <cell><location><geo>022 208</geo></location> -131</cell>
+                    <cell>I <material>svartjordslager</material> under <location xml:id="A_5" type="anläggning">A 5</location>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="lerkarl_F15">Lerkärl</object></cell>
+                </row>    	 	                               
+            </table>
+            
+            <head><location xml:id="A_6" type="anläggning">Anläggning 6</location>.</head>
+            <p>Belägenhet:<location><geo>024 210 027 213</geo></location>  
+                Fotoplan: A 6, skala 1:50 
+                Kop: 1 
+            </p>  
+            <p> Anläggningen var en oregelbunden, ca 3 m stor, övertorvad  stensamling, belägen på bergplatån. Före avtorvningen var endast några  0,5 - 0,7 m stora <material>stenar</material> synliga. 
+                <material>Stenpackningen</material> under <material>torven</material> bestod av 0,2 - 0,7 m stora <material>stenar</material> lagda utan regelbundenhet, i centrum låg ett i flera delar söndersprängt 
+                <material>stenblock</material>. Omedelbart under <material>stenpackningen</material> i dess NV kant låg en liten  koncentration av <object xml:id="branda_ben_F13"> brända ben</object>, 
+                i övrigt hittades endast <object xml:id="krukskarvor_F13">2 krukskärvor</object> och  <object xml:id="lerkliningsbitar_F13">några lerkliningsbitar</object>. Anläggningen var placerad i en svacka (N - S) i berget. Under <material>stenarna</material> utfylldes 
+                svackan av det under A 5 påträffade <material>svart- jords- och  skärvstenslagret</material>  till 0,36 m djup. 
+            </p>
+            <p>Fynd:</p>
+            <table rows="5" cols="3">	
+                <row>
+                    <cell>F 13:</cell>
+                    <cell><location><geo>024 212</geo></location>-102</cell>
+                    <cell>I <material>jordfyllning</material> under <material>stenpackningen</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="branda_ben_F13">Brända ben</object>, 0,05 liter</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell>I <material>jordfyllningen</material> utspridda:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="krukskarvor_F13">Krukskärvor</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell> <object xml:id="lerkliningsbitar_F13">Lerkliningsbitar</object>.</cell>
+                </row>                              
+            </table>
+            
+            <head><location xml:id="A_7_8" type="anläggning">Anläggning 7 och 8</location></head>
+            <p>
+                Belägenhet:<location><geo>030 214 037 216</geo></location>
+                Fotoplan: A 7 I och II, skala 1:50  
+                Profil: 030 215 - 040 215, skala  
+                1:20 
+                Kop: 1 
+            </p>
+            <p> Anläggningarna 7 och 8 voro belägna i den östligaste delen av  gravfältet på östsluttningen, där <material>jordlagret</material> var tjockare. Före avtorvningen endast några 
+                <location>stenar</location> synliga. Genom avtorvningen frilades två till synes skilda stensamlingar med 0,3 – 0,8 m stora stenar. Under stenlagret endast <material>matjord</material> utan spår av mörkfärgning, 
+                liggande direkt på <material>steril bottenmjäla</material>. Inga fynd påträffades. Sannolikt var detta en recent anläggning. 
+            </p>
+            
+            <head><location xml:id="A_9" type="anläggning">Anläggning 9</location> </head>
+            <p>Belägenhet: <location><geo>014 217 017 220 </geo></location> 
+                Fotoplan: A9, skala 1:50 
+                Kop: 4 
+            </p>
+            <p>Anläggningen utgjordes av en närmast rund stensättning, med 3,5  m diam och 0,2 m hög, övertorvad med enstaka stenar synliga i ytan. Den var belägen i en svacka i den mot V 
+                sluttande, delvis jordtäckta berghällen.Efter avtorvningen framkom en enskiktad, tämligen glest lagd <material>stenpackning</material> av 0,3 – 0,5 m stora stenar. 
+                Omedelbart under <material>torven</material>, ända  upp i <material>stenpackningens</material> yta påträffades ett ca 0,2 m tjockt <material>svartjordslager</material>, 
+                något förskjutet mot S i förhållande till <material>stenpackningens</material> centrum. Sannolikt har <material>stenpackningen</material> i sin SV del, intill ett större 
+                stenblock tidigare blivit bortplockad. I <material>svartjordslagret</material> tillvaratogs rikligt med <object xml:id="branda ben_F8">brända ben</object>, spridda över hela  området, 
+                samt <object xml:id="jarnfragment_F8">nitar</object> och <object xml:id="jarnfragment_F8">små, starkt förrostade järnbleck</object>. Intill en sten  i centrum av <material>svartjordslagret</material> påträffades ett 40 cm långt parti av 
+                <object xml:id="svard_F8">svärdsklinga av järn</object>. Delvis under stenen och i vinkel mot <object xml:id="svard_F8">klingan</object> låg <object xml:id="svard_F8">den övriga delen av svärdet med fäste</object>. <object xml:id="svard_F8">Den tresidiga fästeknappen</object>,
+                som låg på plats, var sönderrostad och fragmentarisk. <object xml:id="svard_F8">Svärdet</object> vilade på en  bädd av <material>kol</material> med fibrerna i svärdets längdriktning, sannolikt rester av  svärdsskidan. 
+                Omedelbart intill fästet och under en sten låg <object xml:id="lerkarl_F8">ett sönderpressat lerkärl</object> (I), med botten in situ, av ett tämligen tjockt, grovt gods. Omedelbart S om svärdsfästet lågo väl samlade 
+                <object xml:id="benkamfragment_F8">ett stort antal kambitar</object>, dock utan inbördes ordning. I ö delen av  <material>svartjordslagret</material> framgrävdes uppe i <material>stenpackningen</material> 
+                <object xml:id="bronsspanne_F8">ett bågformigt  bronsspänne med karvsnittsornering och med nål av järn</object>. I S kanten av  lagret funnos rester efter <object xml:id="lerkarl_F8">tre olika lerkärl</object>. 
+                I <material>jordfyllningen</material> under <material>stenpacknings</material> Ö utkant påträffades <object xml:id="sillkarl_F7">ett litet fragment av silkärl</object> (F 7).
+            </p>
+            <p>Fynd:</p>
+            <table rows="11" cols="3">
+                <row>
+                    <cell>F7:</cell>
+                    <cell><location><geo>017 219</geo></location>  -82</cell>
+                    <cell>Omedelbart under <material>stenpackningen</material>, i</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><material>jordfyllning</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="sillkarl_F7">Fragment av sillkärl</object></cell>
+                </row>
+                <row>
+                    <cell> F 8:</cell>
+                    <cell><location><geo>014 217</geo></location> -95</cell>
+                    <cell> I <material>svartjordslager</material>, under <material>stenpackningen</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><location><geo>017 219</geo></location> -106</cell>
+                    <cell><object xml:id="bronsspanne_F8">Spänne av brons</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="svard_F8"> Svärd av järn </object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell> <object xml:id="jarnfragment_F8">Järnfragment, bl.a. nitar</object> </cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell> <object xml:id="benkamfragment_F8">Benkam, 70-tal fragment</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="lerkarl_F8">Lerkärl I</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="krukskarvor_F8">Krukskärvor II, III, IV. </object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="branda ben_F8">Brända ben, 5 liter</object></cell>
+                </row>                                                          
+            </table>
+            
+            <head><location xml:id="A_10" type="anläggning">Anläggning 10 </location></head>
+            <p> Belägenhet:<location><geo> 022 217 032 221 </geo></location> 
+                Fotoplan: 10: I och II, skala 1:50 
+            </p>
+            <p>Anläggningen utgjordes av en långsträckt stensamling, ca 10 m  lång och 1 - 2 m bred. Den var övertorvad, med några <material>stenar</material> synliga i ytan. 
+                Den synnerligen ojämna <material>stenpackningen</material> bestod av 0,1 - 0,4 m stora <material>stenar</material>, ett par voro upp till 1,5 m stora. 
+                Stensamlingen låg på ett tunt <material>jordlager</material>, varunder <material>sterilt grus</material> vidtog. Området runt om <location xml:id="A_10" type="anläggning">A 10</location> och mellan denna och 
+                <location xml:id="A_7_8" type="anläggning">A 7 - 8</location> var fritt från <material>sten</material>. Möjligen kunna stensamlingarna <location xml:id="A_7_8" type="anläggning">A 7, A 8</location> och <location xml:id="A_10" type="anläggning">A 10 </location>förklaras som <material>röjningssten</material>. 
+            </p>
+            <head><location xml:id="A_11" type="anläggning">Anläggning 11</location> </head>
+            <p> Belägenhet: <location><geo>019 219 023 224</geo></location>
+                Fotoplan: A 11, skala 1:50 
+                Profil: 025 206 - 020 225, skala 1:20 
+                Kop: 3 
+            </p>
+            <p> Anläggningen utgjordes av en övertorvad, närmast rund stensättning, med 5 m diam, belägen på N delen av bergsplatån. 
+                Före avtorvningen var den synlig som en svag förhöjning med enstaka stenar i ytan. Anläggningen vilade i sin helhet direkt på berget. 
+                Den <material>stenpackning</material>, som framkom under <material>torven</material> bestod av 0,1 - 0,5  m stora stenar. 
+                Den var tämligen väl lagd och begränsad av 0,3 - 0,4 m stora stenar. Under <material>stenpackningens</material> 
+                V hälft utbredde sig ett 3,5 x 3 m  stort (N - S) och 0,05 m tjockt <material>svartjordslager</material>, i vilket påträffades ett 1,5 x 3 m stort område 
+                innehållande <object xml:id="branda_ben_F6">brända ben</object>. Ännu snävare avgränsat inom detta områdes centrum var det egentliga fyndlagret. I dess N ände stod <object xml:id="lerkarl_F6">ett sönderpressat lerkärl</object>,
+                dolt under en flat, oval stenskiva, 0,3 x 0,2 m stor. Vidare påträffades, utspridda över fyndlagret, <object xml:id="jarnnitar_F6">ett 20-tal järnnitar</object>, <object xml:id="jarnfragment_F6">järnfragment</object>, 
+                <object xml:id="kambitar_F6">kambitar</object> samt <object xml:id="dubbelparla_F6">en blå  dubbelpärla</object>. I <material>stenpackningens</material> SV gräns utanför <material>svartjordslagret</material> 
+                påträffades ca 15 cm under <material>stenpackningen</material> <object xml:id="jarnspik_F4">en spik av järn</object> (F 4), samt <object xml:id="nitbricka_F5">nitbricka av järn</object> (F 5).
+            </p>
+            <p>Fynd:</p>
+            <table rows="10" cols="3">		
+                <row>
+                    <cell>F 4:</cell>
+                    <cell><location><geo>020 220</geo></location> -91</cell>
+                    <cell>I <material>jordlager</material> utanför av <material>svartjordslagret</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="jarnspik_F4">Spik av järn</object></cell>
+                </row>
+                <row>
+                    <cell>F 5:</cell>
+                    <cell><location><geo>020 220</geo></location> -91</cell>
+                    <cell><object xml:id="nitbricka_F5">Nitbricka av järn</object></cell>
+                </row>
+                <row>
+                    <cell> F 6:</cell>
+                    <cell><location><geo>019 220</geo></location> -83</cell>
+                    <cell>I <material>svartjordslagret</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><location><geo>022 223</geo></location> -88</cell>
+                    <cell><object xml:id="branda_ben_F6">Brända ben, 3 liter</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><location><geo>020 220</geo></location> -83</cell>
+                    <cell>I <material>svartjordalagrets</material> centrum: </cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><location><geo>021 223</geo></location> -88</cell>
+                    <cell><object xml:id="lerkarl_F6">Lerkärl</object>, under flat stenskiva </cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="jarnnitar_F6">Järnnitar, 20-tal</object>, samt <object xml:id="jarnfragment_F6">järnfragment</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="kambitar_F6">Kambitar</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="dubbelparla_F6">Blå dubbelpärla, av glas</object>.</cell>
+                </row>                                                              
+            </table>
+            
+            <head><location xml:id="A_12" type="anläggning">Anläggning 12</location>.</head>
+            <p>Belägenhet: <location><geo>013 223 014 224</geo></location>
+                Fotoplan: A 9, skala 1:50 
+            </p>
+            <p>I en mindre fördjupning i berget, 0,7 m NV om <location xml:id="A_9" type="anläggning">A 9</location> påträffades ett <material>svartjordslager</material> med 1 m diam och 0,01 m djupt. 
+                I övrigt innehöll fördjupningen <object xml:id="jarnfragment_F26">3 mindre järnfragment</object>, <object xml:id="krukskarva_F26">1 krukskärva</object> <object xml:id="tander_F26">tänder av människa</object> samt <object xml:id="branda_ben_F26">brända ben</object> och <object xml:id="lerklining_F25">lerklining</object>. 
+            </p>
+            <p>Fynd:</p>
+            <table rows="6" cols="3">		
+                <row>
+                    <cell>F 25:</cell>
+                    <cell><location><geo>013 223</geo></location> -94</cell>
+                    <cell>I <material>svartjordslager</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><location xml:id="041_224"><geo>014 224</geo></location> -105</cell>
+                    <cell><object xml:id="lerklining_F25">Lerklining</object> </cell>
+                </row>
+                <row>
+                    <cell>F 26:</cell>
+                    <cell><location xml:id="041_224"><geo>” ”</geo></location></cell>
+                    <cell><object xml:id="jarnfragment_F26">Fragment av järn, 3 stycken</object> </cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="krukskarva_F26">Krukskärva</object> </cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="tander_F26">Tänder, av människa </object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="branda_ben_F26">Brända ben</object>, 1 liter</cell>
+                </row>                                                                                                                                                             
+            </table>
+            
+            <head><location xml:id="A_18" type="anläggning">Anläggning 18.</location></head>
+            <p>Belägenhet:<location><geo>020 216 022 219</geo></location> 
+                Fotoplan: A 10:I, skala 1:50 
+            </p>
+            <p> Anläggningen var ett <material>svartjordsområde</material>, endast i S bebränsat av ett 10-tal 0,1 - 0,3 m stora stenar bågformigt utplacerade. 
+                Anläggningen var belägen omedelbart V om <location xml:id="A_10" type="anläggning">A 10</location>. Före avtorvningen var ingenting av anläggningen synligt. 
+                <material>Svartjordslagret</material> hade en utbredning av ca 2 m och en tjocklek på 0,18  m. I dess SÖ kant påträffades 
+                <object xml:id="lerkarl_F9">ett sammanpressat lerkärl</object> omgivet av <object xml:id="branda_ben_F9">brända ben</object>. Lagret i övrigt innehöll <object xml:id="jarnring_F9">2 fragment av en järnring</object> samt 
+                <object xml:id="jarnnitar_F9">4 nitar av järn</object>. Under anläggningens NV del var grävd en grop, ca 1,5 m i  diam och 0,12 m djup, fylld av <material>skörbränd sten</material>. 
+                Hela anläggningen vilade  på botten av <material>rödgult grus</material>. 
+            </p>
+            <p>Fynd:</p>
+            <table rows="9" cols="3">
+                <row>
+                    <cell>F 2:</cell>
+                    <cell><location><geo>021 217</geo></location>-86</cell>
+                    <cell>Lösfynd. Funnet vid rensning omedel-</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell>bart ovanför <material>svarjordslagrets</material> yta:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="jarnnitar_F2">Nitar av järn, 2 st.</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="hasttand_F2">Hästtand</object>.</cell>
+                </row> 
+                <row>
+                    <cell>F 9:</cell>
+                    <cell><location><geo>022 217</geo></location> -90</cell>
+                    <cell>I <material>svartjordslagret</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="nithuvud_F9">Rombiskt nithuvud av järn</object> </cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="jarnring_F9">2 delar av järnring</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="jarnnitar_F9">4 nitar av järn </object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="lerkarl_F9">Lerkärl</object>, <object xml:id="branda_ben_F9">Brända ben</object>, 1 liter</cell>
+                </row>                                                              
+            </table>
+            
+            <head><location xml:id="A_19" type="anläggning">Anläggning 19.</location></head>
+            <p>Belägenhet:  <location><geo>028 212 031 214</geo></location>
+                Fotoplan; A 7:1, skala 1:50 
+            </p>
+            <p>Anläggningen var ett <material>svartjordsområde</material>, med 1,5 m diam och 0,1 m tjockt. Anläggningen var belägen omedelbart SV om A 7. 
+                Före avtorvn1ngen var anläggningen ej synlig. Anläggningen innehöll förutom <material>svartjord</material> även enstaka skärvor av <material>skörbränd sten</material>, 
+                <object xml:id="branda_ben_F24">ett fåtal brända ben</object>, <object xml:id="kambitar_F24">20-tal ornerade kambitar</object>, <object xml:id="bryne_F24">fragment av sandstensbryne</object>, samt <object xml:id="krukskarvor_F24">några krukskärvor</object>, alltsammans utspritt  över lagret. 
+                Vid rensningen påträffades <object xml:id="parla_F1">en pärla av bergkristall</object>.  Anläggningen vilade på <material>sterilt sandlager</material>.
+            </p>
+            <p>Fynd:</p>
+            <table rows="7" cols="3">
+                <row>
+                    <cell>F 1:</cell>
+                    <cell><location><geo>030 213</geo></location> -120</cell>
+                    <cell>Lösfynd, vid rensning:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="parla_F1">Pärla av bergkristall</object></cell>
+                </row>
+                <row>
+                    <cell>F 24:</cell>
+                    <cell><location><geo>028 212</geo></location> -125</cell>
+                    <cell>Utspridda över hela <material>svartjordalagret</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><location><geo>031 214</geo></location> -134</cell>
+                    <cell><object xml:id="bryne_F24">Fragment av bryne av sandsten</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="kambitar_F24">Kambitar</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="krukskarvor_F24">Krukskärvor</object> </cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="branda_ben_F24">Brända ben</object></cell>                                                         
+                </row>                                                        
+            </table>
+            
+            <head><location xml:id="A_20" type="anläggning">Anläggning 20</location></head>
+            <p> 
+                Belägenhet:<location><geo>005 205 008 207 </geo></location> 
+                Fotoplan: A 1, skala 1:50 
+                Profil: 000 205 - 030 215, skala  
+                1:20 
+                Kop: 1 
+            </p>
+            <p> Anläggningen utgjordes av en mycket oregelbunden stensamling med ca 2 m diam. Anläggningen var belägen i västsluttning omedelbart 
+                utanför berget, kant i kant med och SÖ om A 2. Den var före undersökningen helt osynlig. Efter avtorvning och rensning påträffades
+                en oregelbunden och  gles, enskiktad stensamling utan avgränsning. Under <material>stenpackningen</material> vidtog det under A 2 tidigare påträffade 
+                <material>svartjordslagret</material>. Detta var  under A 20 något tjockare och hade en stark inblandning av <material>kol</material>. I <material>svartjordslagret</material>, 
+                omedelbart S om <material>kollagret</material>, påträffades <object xml:id="lerkarl_F22">rester av ett lerkärl</object>  (F 22). Utspridda över <material>kollagrets</material> yta, ca 1 m i  diam, gjordes följande fynd (F 23): 
+                <object xml:id="spannbuckla_F23">ett litet bronsfragment av enskalig  oval spännbuckla</object>, <object xml:id="jarnfragment_F23">6 järnfragment</object>, <object xml:id="kambitar_F23">20-tal fragment av benkam</object> <object xml:id="glasparlor_F23">64 pärlor av glasfluss</object> samt <object xml:id="branda_ben_F23">brända ben</object>.
+            </p>
+            <p>Fynd:</p>
+            <table rows="9" cols="3">
+                <row>
+                    <cell>F 22:</cell>
+                    <cell><location><geo>007 206</geo></location> -242</cell>
+                    <cell>I <material>svartjordslager</material>, omedelbart under </cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><material>stenpackningen</material>:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="lerkarl_F22">Lerkärl, sönderpressat</object>.</cell>
+                </row>
+                <row>
+                    <cell>F 23:</cell>
+                    <cell><location><geo>006 206</geo></location> -238</cell>
+                    <cell>Utspridda i <material>kollagret</material>, ca 1 diam:</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell><location><geo>008 207</geo></location> -262</cell>
+                    <cell><object xml:id="spannbuckla_F23">Fragment av enskalig spännbuckla av brons</object>.</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="jarnfragment_F23">Järnfragment, 6 st</object></cell>
+                </row>  
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="kambitar_F23">Kambitar, 20-tal</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="glasparlor_F23">Pärlor av glas eller glasfluss, 64 st</object></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><object xml:id="branda_ben_F23">Brända ben, 2 liter</object>.</cell>
+                </row>                                                                
+            </table>
+            
+            <head>HÄRD+ OCH BRANDGROPSTABELL:</head>
+            <table rows="7" cols="6">
+                <row>
+                    <cell role="label"> Anl. Nr. </cell>
+                    <cell role="label"> Bel. </cell>
+                    <cell role="label"> Fotoplan. </cell>
+                    <cell role="label"> Diam. </cell>
+                    <cell role="label"> Höjd. </cell>
+                    <cell role="label"> Beskrivning. </cell>
+                </row>
+                <row>
+                    <cell><location xml:id="A_13" type="anläggning">A 13</location></cell>
+                    <cell><location><geo>023 218 025 220</geo></location></cell>
+                    <cell>A 10:I</cell>
+                    <cell>1 x 1,5 </cell>
+                    <cell>-128 -145</cell>
+                    <cell>Härdgrop, delvis täckta av stensamlingen <location xml:id="A_10" type="anläggning">A 10</location>. Gropen var fylld av 
+                          <material>svart, sandblandad jord</material>, <material>kol</material> 
+                          och <material>skörbränd sten</material>.Botten bestod av <material>steril mjäla</material>.
+                   </cell>  
+                </row>
+                <row>
+                    <cell><location xml:id="A_14" type="anläggning">A 14</location></cell>
+                    <cell><location><geo>022 216 024 218</geo></location></cell>
+                    <cell>A 10:I</cell>
+                    <cell>1,2x1,8</cell>
+                    <cell>-112 -137</cell>
+                    <cell>Härdgrop, delvis täckt av <location xml:id="A_10" type="anläggning">A  10</location>. Gropen var fylld av <material>svart, sandblandad jord</material>, 
+                          <material>kol</material> samt <material>skörbränd sten</material>. Botten som  ovan.
+                    </cell>
+                </row>
+                <row>
+                    <cell><location xml:id="A_15" type="anläggning">A 15</location></cell>
+                    <cell><location><geo>025 218 027 219</geo></location></cell>
+                    <cell>A 10:I</cell>
+                    <cell>0,8 </cell>
+                    <cell>-144 -165</cell>
+                    <cell>Härdgrop, täckt av <location xml:id="A_10" type="anläggning">A 10</location>. Fylld  av <material>svart, sandblandad jord</material>,  
+                        <material>kol</material> och <material>skörbränd sten</material>. Belägen  direkt på <material>berg</material>.
+                    </cell>
+                </row>
+                <row>
+                    <cell><location xml:id="A_16" type="anläggning">A 16</location></cell>
+                    <cell><location><geo>025 216 029 219</geo></location></cell>
+                    <cell>A 10:I-II</cell>
+                    <cell>2,4x2,8</cell>
+                    <cell>-137 -154</cell>
+                    <cell><material>Svartjordslager</material>, omedelbart S  om <location xml:id="A_10" type="anläggning">A 10</location>. I dess V Kant 
+                        ett 0,7  x 1,2 m stort område innehållande <object xml:id="branda_ben_F12">ett fåtal brända  ben</object> 
+                        samt <object xml:id="jarnnit_F12">en järnnit</object>. Botten <material>mjäla</material> . Fynd: <object xml:id="branda_ben_F12">Järnnit</object>,<object xml:id="jarnnit_F12">brända  ben, ett fåtal</object>  <note>(F 12)</note>
+                    </cell>
+                </row>
+                <row>
+                    <cell><location xml:id="A_17" type="anläggning">A 17</location></cell>
+                    <cell><location><geo>027 218 028 219</geo></location></cell>
+                    <cell>A 10:II</cell>
+                    <cell>0,5x0,8</cell>
+                    <cell>-155 -164</cell>
+                    <cell>Brandgrop, innehållande <material>svartjord</material> och <material>kol</material>.</cell>
+                  </row>
+                <row>
+                    <cell><location xml:id="A_21" type="anläggning">A 21 </location></cell>
+                    <cell><location><geo>021 218 024 220</geo></location></cell> 
+                    <cell>A 10:I </cell>
+                    <cell>1x1,5</cell>
+                    <cell>-160 -171 </cell>
+                    <cell>Brandgrop, kringsatt av 0,2 - 0,3 m stora stenar. Fylld av <material>svartjord</material>, <object>lerkliningsbitar</object> samt 
+                        <material>skörbränd sten</material> och <material>kol</material>. Botten utgjordes av berg.
+                    </cell>
+                </row>
+            </table>
+            <table rows="5" cols="5">
+                <row>
+                    <cell role="label"> Nr. </cell>
+                    <cell role="label"> Bel. </cell>
+                    <cell role="label"> Diam. </cell>
+                    <cell role="label"> Djup. </cell> 
+                    <cell role="label">Beskrivning.</cell>
+                </row>
+                <row>
+                    <cell>Ä 1</cell>
+                    <cell><location><geo>000 212</geo></location></cell>
+                    <cell>3,5-4 cm</cell>
+                    <cell>0,5 cm</cell>
+                    <cell>3 skålgropar i grupp</cell>
+                </row>
+                <row>
+                    <cell>Ä 2</cell>
+                    <cell><location><geo>002 212</geo></location></cell>
+                    <cell>4 – 5 cm </cell>
+                    <cell>0,5 – 1 cm</cell>
+                    <cell>3 skålgropar i grupp</cell>
+                </row>
+                <row>
+                    <cell>Ä 3</cell>
+                    <cell><location><geo>001 214</geo></location></cell>
+                    <cell>3 – 6 cm</cell>
+                    <cell>0,5 – 1 cm</cell>
+                    <cell>4 skålgropar i grupp</cell>
+                </row>
+                <row>
+                    <cell>Ä 4</cell>
+                    <cell><location><geo>005 215</geo></location></cell>
+                    <cell>6 cm</cell>
+                    <cell>0,5 cm</cell>
+                    <cell>2 skålgropar på 70 cm  avstånd från varandra  i N-S riktning.</cell>
+                </row>
+            </table>
+        </body>
+        
+    </text>
+</TEI>
