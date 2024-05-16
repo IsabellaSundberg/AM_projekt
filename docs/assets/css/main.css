@@ -30,6 +30,7 @@ h3 {
     font-weight: bold;
     padding: 1vw;
     
+    
 }
    
 h4 {
@@ -41,6 +42,10 @@ h4 {
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
     
+}
+h5 
+{text-align:left;
+font-weight:bold;
 }
     table {
     width: 100%; 
@@ -88,20 +93,20 @@ h4 {
 
   }
 
-  .description {
-    flex: 1;
+  .beskrivning {
+    
 border-top: 1px solid black;
 border-bottom: 1px solid black;
 border-left:1px solid black;
 border-right: 1px solid black; 
 min-height: 400px;
 padding: 5px;
-width: 30%;
+width: auto;
 float:left;
-margin-right: 50px;
-margin-left: 130px;
+margin-right: auto;
+margin-left: auto;
 font-size: 14px;
-text-align: right-align;
+text-align:left;
   }
 
 #main-div
@@ -161,13 +166,19 @@ text-align: right-align;
 .img-full {
  flex: 1;
     border: 1px solid black;
-    width: 500px;
+    width: auto;
     min-height: 400px;
-    margin-left: 40px;
-   
-    
-    
+    margin-left:auto;
 }
+
+.bildgalleri {
+    margin-bottom: 50px;
+   
+}
+  .bildgalleri img {
+    max-width: 100%;
+    height: auto;
+  }
 .links {
     flex:1;
     border-top: 1px solid black;
@@ -176,12 +187,11 @@ text-align: right-align;
     border-right: 1px solid black; 
     min-height: 400px;
     padding: 5px;
-    width: 20%;
-    float:right;
-    margin-right: 10px;
-    margin-left: 0px;
+    width: auto;
+    
+    margin-right: auto;
+    margin-left: auto;
     font-size: 14px;
-    text-align: right-align;
+    text-align:left;
       
-
 }
