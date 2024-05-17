@@ -5,13 +5,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Rapport</title>
+                <title>Anläggningsrapporter</title>
                 <author> Henry Simonsson </author>
                 <principal>Hummelbacken</principal>
             </titleStmt>
             <publicationStmt>
                 <publisher>Digitaliseringsprojekt Hummelbacken</publisher>
-                <date>Maj 2024</date>
+                <date>05-2024</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                         <p>
@@ -49,7 +49,7 @@
                 Därunder var dess material finare med stenar om 0,1 - 0,4 m liggande i <material>mörkjordslager</material>.
                 Detta lager, som i centrum hade en tjocklek av 0,4 m, förekom under hela anläggningen och fortsatte direkt över till <location xml:id="A_2" type="anläggning">A 2</location> och A 3. 
                 Under det <material>mörka jordlagret </material>vidtog ett <material>svartjordslager</material>, vilket i sin centrala del överst avgränsades av ett 1,7 x 1,3 m stort och 0,1 m 
-                tjockt skikt av <material>kol</material>, <object xml:id="branda_ben_F27">brända ben </object>och <object xml:id= "krukskravor_F27">enstaka krukskärvor</object>.
+                tjockt skikt av <material>kol</material>, <object xml:id="branda_ben_F27">brända ben </object>och <object xml:id= "krukskarvor_F27">enstaka krukskärvor</object>.
                 Under <material>kollagret</material> utfyllde <material>svartjordslagret</material> en fördjupning om 0,6 m och utvidgade sig åt N och V till anläggningens gräns, medan det i 
                 SÖ och ö fortsatte under A 3 och A 2, där det tunnades ut. <material>Svartjordslagret</material> innehöll även <material>kol</material> och <material>skörbränd sten</material>. 
                 <material>Svartjordslagret</material> vilade på botten av <material>sand</material> och <material>grus</material>.
@@ -67,7 +67,7 @@
                 </row>
                 <row>
                     <cell></cell>
-                    <cell><object xml:id= "krukskravor_F27"> Krukskärvor</object></cell>
+                    <cell><object xml:id= "krukskarvor_F27"> Krukskärvor</object></cell>
                 </row>
                 <row>
                     <cell></cell>
@@ -87,32 +87,37 @@
                 Efter avtorvningen blottades en tämligen oregelbunden <material>stenpackning</material> av 0,3 - 0,8 m stora <material>stenar</material>. I anläggningens centrum var
                 en 1,1 m lång och 0,6 m bred, plan <material>sten</material>, nu i två delar, vilken möjligen tidigare varit rest. Omedelbart NV därom två större <material>stenar</material>.
                 De mäktiga <material>mörk- och svartjordslager</material>, som från A 1 fortsatte under A2, tunnades av mot Ö kanten, där <material>svartjordslagret</material> slutade i en koncentration av <material>svartjord</material> och <material>kol</material>. 
-                Under den flata <material>stenen</material>, kringsatt av 0,2 - 0,3 m stora <material>stenar</material>, påträffades en delvis hoptryckt <object xml:id="urna_F_21">urna</object> in situ (F 21). Ytterligare ett sönderpressat <object xml:id="lerkarl_F_18">lerkärl</object>(F 18)
+                Under den flata <material>stenen</material>, kringsatt av 0,2 - 0,3 m stora <material>stenar</material>, påträffades en delvis hoptryckt <object xml:id="lerkarl_F21">urna</object> in situ (F 21). Ytterligare ett sönderpressat <object xml:id="lerkarl_F18">lerkärl</object>(F 18)
                 stod under en samling av decimeterstora <material>stenar</material> i <material>mörkjordslagret</material> i anläggningens NV del.
             </p>
            <p>Fynd:</p> 		
-            <table rows="7" cols="3"> 
+            <table rows="7" cols="4"> 
                 <row>
                     <cell>F 18:</cell>
-                    <cell><location><geo>003 209</geo></location>  -254</cell>
+                    <cell><location><geo>003 209</geo></location> </cell>
+                    <cell> -254</cell>
                     <cell>Under mindre stensamling i <material>mörkjordslagret</material>:</cell>
                 </row>
                 <row>
                     <cell></cell>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                 </row>
                 <row>
                     <cell></cell>
                     <cell></cell>
-                    <cell>rester av <object xml:id="lerkarl_F_18">ett sönderpressat lerkärl </object></cell>
+                    <cell></cell>
+                    <cell>rester av <object xml:id="lerkarl_F18">ett sönderpressat lerkärl </object></cell>
                 </row>
                 <row>
                     <cell>F 21:</cell>
-                    <cell><location><geo>005 206</geo></location>	-226</cell>
+                    <cell><location><geo>005 206</geo></location></cell>
+                    <cell>-226</cell>
                     <cell>  I <material>mörkjordslagret</material> under större flat</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><material>sten</material> och kringsatt av <material>stenar</material>:</cell>
@@ -120,12 +125,14 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
-                    <cell><object xml:id="urna_F_21">ett sönderpressat lerkärl</object></cell>
+                    <cell></cell>
+                    <cell><object xml:id="lerkarl_F21">ett sönderpressat lerkärl</object></cell>
                 </row>
                 <row>
                     <cell></cell>
                     <cell></cell>
-                    <cell><object xml:id="branda_ben_F_21">Brända ben</object>, ett fåtal</cell>
+                    <cell></cell>
+                    <cell><object xml:id="branda_ben_F21">Brända ben</object>, ett fåtal</cell>
                 </row>                                                                  
             </table>
             
@@ -145,23 +152,27 @@
             </p>
             
             Fynd:
-            <table rows="13" cols="3">		
+            <table rows="13" cols="4">		
                 <row>
-                    <cell> F 17:</cell>
-                    <cell><location><geo>002 208</geo></location>	-257</cell>
+                    <cell>F 17:</cell>
+                    <cell><location><geo>002 208</geo></location></cell>
+                    <cell>-257</cell>
                     <cell>I <material>mörkjordslager</material>:</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="knivfragmet_F17">Fragment av kniv</object> och <object xml:id="jarnnal_F17">nål av järn</object></cell>
                 </row>
                 <row>
                     <cell>F 16:</cell>
-                    <cell><location><geo>002 207</geo></location> -  -249</cell>
+                    <cell><location><geo>002 207</geo></location> </cell>
+                    <cell>-  -249</cell>
                     <cell>I <material>mörkjordslager</material> under 0,4 x 0,2 m</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell>stor sten:</cell>
@@ -169,29 +180,35 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="lerkarl_F16">Lerkärl</object></cell>
                 </row>
                 <row>
                     <cell>F 19:</cell>
-                    <cell><location><geo>003 207</geo></location>	-253</cell>
+                    <cell><location><geo>003 207</geo></location></cell>
+                    <cell>-253</cell>
                     <cell>I <material>mörkjordslager</material>:</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="krukskarva_F19">Krukskärva, ornerad</object></cell>
                 </row>
                 <row>
                     <cell>F 20:</cell>
-                    <cell><location><geo>002 207</geo></location>	-250</cell>
+                    <cell><location><geo>002 207</geo></location></cell>
+                    <cell>-250</cell>
                     <cell>I <material>mörkjordslagret</material>, utspridda över ett</cell>
                 </row>
                 <row>
                     <cell></cell>
                     <cell><location><geo>003 208</geo></location></cell>
+                    <cell></cell>
                     <cell>0,5 m stort område:</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="kambitar_F20"> Kambitar</object></cell>
@@ -199,14 +216,17 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="branda_ben_F20">Brända ben</object>, ej tillvaratagna</cell>
                 </row>
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="flintavslag_F20">Flintavslag</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="djurtand_F20">Djurtand</object></cell>
@@ -232,18 +252,21 @@
                 Kärlet var dock i dåligt skick och måste plockas upp i bitar. Innehållet bestod av <material>svart jord</material> och <object xml:id="branda_ben_F14">porösa brända ben</object>.
             </p>
             <p>Fynd:</p>
-            <table rows="12" cols="3">
+            <table rows="12" cols="4">
                 <row>
                     <cell>F 11:</cell>
-                    <cell><location><geo>017 210</geo></location>-63</cell>
+                    <cell><location><geo>017 210</geo></location></cell>
+                    <cell>-63</cell>
                     <cell>Utspridda i hela <material>svartjordslagret</material>:</cell>
                 </row>	
                 <row>
                     <cell></cell>
-                    <cell><location><geo>019 212</geo></location>-97</cell>
+                    <cell><location><geo>019 212</geo></location></cell>
+                    <cell>-97</cell>
                     <cell><object xml:id="hastbrodd_F11">Hästbrodd av järn</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="nitar_av_jarn_F11">Nitar av järn och fragment av dylika</object></cell>
@@ -251,9 +274,11 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="bryne_F11">Bryne, i bitar</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="parla_av_glassfluss_F11">Pärla av glasfluss</object></cell>
@@ -261,14 +286,17 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="kambitar_F11">Kambitar</object></cell>
                 </row>
                 <row>
                     <cell></cell>
-                    <cell><location><geo>019 211</geo></location> -73</cell>
+                    <cell><location><geo>019 211</geo></location></cell>
+                    <cell>-73</cell>
                     <cell><object xml:id="lerkarl_F11">Lerkärl</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="djurklor_F11">Djurklor</object> och <object xml:id="djurtander_F11">djurtänder</object></cell>
@@ -276,19 +304,23 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="branda_ben_F11">Brända ben</object>, 7, 3 liter</cell>
                 </row>
                 <row>
                     <cell>F 14:</cell>
-                    <cell><location><geo>018 211</geo></location> -74</cell>
+                    <cell><location><geo>018 211</geo></location> </cell>
+                    <cell>-74</cell>
                     <cell>I <material>kollager</material> i <material>svartjordslagrets</material> centrum,</cell>
                 </row>
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="lerkarl_F14">Lerkärl</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="branda_ben_F14">Brända ben</object>, 0,3 liter</cell>
@@ -310,13 +342,15 @@
                 <object xml:id="lerkarl_F15">Lerkärlet</object> innehöll endast <material>svartjord</material>. 
             </p>
             <p>Fynd:</p> 
-            <table rows="2" cols="3">
+            <table rows="2" cols="4">
                 <row>
-                    <cell> F 15:</cell>
-                    <cell><location><geo>022 208</geo></location> -131</cell>
+                    <cell>F 15:</cell>
+                    <cell><location><geo>022 208</geo></location> </cell>
+                    <cell>-131</cell>
                     <cell>I <material>svartjordslager</material> under <location xml:id="A_5" type="anläggning">A 5</location>:</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="lerkarl_F15">Lerkärl</object></cell>
@@ -335,13 +369,15 @@
                 svackan av det under A 5 påträffade <material>svart- jords- och  skärvstenslagret</material>  till 0,36 m djup. 
             </p>
             <p>Fynd:</p>
-            <table rows="5" cols="3">	
+            <table rows="5" cols="4">	
                 <row>
                     <cell>F 13:</cell>
-                    <cell><location><geo>024 212</geo></location>-102</cell>
+                    <cell><location><geo>024 212</geo></location></cell>
+                    <cell>-102</cell>
                     <cell>I <material>jordfyllning</material> under <material>stenpackningen</material>:</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="branda_ben_F13">Brända ben</object>, 0,05 liter</cell>
@@ -349,14 +385,17 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell>I <material>jordfyllningen</material> utspridda:</cell>
                 </row>
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="krukskarvor_F13">Krukskärvor</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell> <object xml:id="lerkliningsbitar_F13">Lerkliningsbitar</object>.</cell>
@@ -395,13 +434,15 @@
                 I <material>jordfyllningen</material> under <material>stenpacknings</material> Ö utkant påträffades <object xml:id="sillkarl_F7">ett litet fragment av silkärl</object> (F 7).
             </p>
             <p>Fynd:</p>
-            <table rows="11" cols="3">
+            <table rows="11" cols="4">
                 <row>
-                    <cell>F7:</cell>
-                    <cell><location><geo>017 219</geo></location>  -82</cell>
+                    <cell>F 7:</cell>
+                    <cell><location><geo>017 219</geo></location></cell>
+                    <cell>-82</cell>
                     <cell>Omedelbart under <material>stenpackningen</material>, i</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><material>jordfyllning</material>:</cell>
@@ -409,19 +450,23 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="sillkarl_F7">Fragment av sillkärl</object></cell>
                 </row>
                 <row>
-                    <cell> F 8:</cell>
-                    <cell><location><geo>014 217</geo></location> -95</cell>
+                    <cell>F 8:</cell>
+                    <cell><location><geo>014 217</geo></location> </cell>
+                    <cell>-95</cell>
                     <cell> I <material>svartjordslager</material>, under <material>stenpackningen</material>:</cell>
                 </row>
                 <row>
                     <cell></cell>
-                    <cell><location><geo>017 219</geo></location> -106</cell>
+                    <cell><location><geo>017 219</geo></location> </cell>
+                    <cell>-106</cell>
                     <cell><object xml:id="bronsspanne_F8">Spänne av brons</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="svard_F8"> Svärd av järn </object></cell>
@@ -429,9 +474,11 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell> <object xml:id="jarnfragment_F8">Järnfragment, bl.a. nitar</object> </cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell> <object xml:id="benkamfragment_F8">Benkam, 70-tal fragment</object></cell>
@@ -439,14 +486,17 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="lerkarl_F8">Lerkärl I</object></cell>
                 </row>
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="krukskarvor_F8">Krukskärvor II, III, IV. </object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="branda ben_F8">Brända ben, 5 liter</object></cell>
@@ -479,43 +529,51 @@
                 påträffades ca 15 cm under <material>stenpackningen</material> <object xml:id="jarnspik_F4">en spik av järn</object> (F 4), samt <object xml:id="nitbricka_F5">nitbricka av järn</object> (F 5).
             </p>
             <p>Fynd:</p>
-            <table rows="10" cols="3">		
+            <table rows="10" cols="4">		
                 <row>
                     <cell>F 4:</cell>
-                    <cell><location><geo>020 220</geo></location> -91</cell>
+                    <cell><location><geo>020 220</geo></location> </cell>
+                    <cell>-91</cell>
                     <cell>I <material>jordlager</material> utanför av <material>svartjordslagret</material>:</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="jarnspik_F4">Spik av järn</object></cell>
                 </row>
                 <row>
                     <cell>F 5:</cell>
-                    <cell><location><geo>020 220</geo></location> -91</cell>
+                    <cell><location><geo>020 220</geo></location> </cell>
+                    <cell>-91</cell>
                     <cell><object xml:id="nitbricka_F5">Nitbricka av järn</object></cell>
                 </row>
                 <row>
-                    <cell> F 6:</cell>
-                    <cell><location><geo>019 220</geo></location> -83</cell>
+                    <cell>F 6:</cell>
+                    <cell><location><geo>019 220</geo></location> </cell>
+                    <cell>-83</cell>
                     <cell>I <material>svartjordslagret</material>:</cell>
                 </row>
                 <row>
                     <cell></cell>
-                    <cell><location><geo>022 223</geo></location> -88</cell>
+                    <cell><location><geo>022 223</geo></location> </cell>
+                    <cell>-88</cell>
                     <cell><object xml:id="branda_ben_F6">Brända ben, 3 liter</object></cell>
                 </row>
                 <row>
                     <cell></cell>
-                    <cell><location><geo>020 220</geo></location> -83</cell>
+                    <cell><location><geo>020 220</geo></location> </cell>
+                    <cell>-83</cell>
                     <cell>I <material>svartjordalagrets</material> centrum: </cell>
                 </row>
                 <row>
                     <cell></cell>
-                    <cell><location><geo>021 223</geo></location> -88</cell>
+                    <cell><location><geo>021 223</geo></location> </cell>
+                    <cell>-88</cell>
                     <cell><object xml:id="lerkarl_F6">Lerkärl</object>, under flat stenskiva </cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="jarnnitar_F6">Järnnitar, 20-tal</object>, samt <object xml:id="jarnfragment_F6">järnfragment</object></cell>
@@ -523,9 +581,11 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="kambitar_F6">Kambitar</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="dubbelparla_F6">Blå dubbelpärla, av glas</object>.</cell>
@@ -540,23 +600,27 @@
                 I övrigt innehöll fördjupningen <object xml:id="jarnfragment_F26">3 mindre järnfragment</object>, <object xml:id="krukskarva_F26">1 krukskärva</object> <object xml:id="tander_F26">tänder av människa</object> samt <object xml:id="branda_ben_F26">brända ben</object> och <object xml:id="lerklining_F25">lerklining</object>. 
             </p>
             <p>Fynd:</p>
-            <table rows="6" cols="3">		
+            <table rows="6" cols="4">		
                 <row>
                     <cell>F 25:</cell>
-                    <cell><location><geo>013 223</geo></location> -94</cell>
+                    <cell><location><geo>013 223</geo></location> </cell>
+                    <cell>-94</cell>
                     <cell>I <material>svartjordslager</material>:</cell>
                 </row>
                 <row>
                     <cell></cell>
-                    <cell><location xml:id="041_224"><geo>014 224</geo></location> -105</cell>
+                    <cell><location xml:id="041_224"><geo>014 224</geo></location> </cell>
+                    <cell>-105</cell>
                     <cell><object xml:id="lerklining_F25">Lerklining</object> </cell>
                 </row>
                 <row>
                     <cell>F 26:</cell>
                     <cell><location xml:id="041_224"><geo>” ”</geo></location></cell>
+                    <cell></cell>
                     <cell><object xml:id="jarnfragment_F26">Fragment av järn, 3 stycken</object> </cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="krukskarva_F26">Krukskärva</object> </cell>
@@ -564,9 +628,11 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="tander_F26">Tänder, av människa </object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="branda_ben_F26">Brända ben</object>, 1 liter</cell>
@@ -585,13 +651,15 @@
                 Hela anläggningen vilade  på botten av <material>rödgult grus</material>. 
             </p>
             <p>Fynd:</p>
-            <table rows="9" cols="3">
+            <table rows="9" cols="4">
                 <row>
                     <cell>F 2:</cell>
-                    <cell><location><geo>021 217</geo></location>-86</cell>
+                    <cell><location><geo>021 217</geo></location></cell>
+                    <cell>-86</cell>
                     <cell>Lösfynd. Funnet vid rensning omedel-</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell>bart ovanför <material>svarjordslagrets</material> yta:</cell>
@@ -599,19 +667,23 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="jarnnitar_F2">Nitar av järn, 2 st.</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="hasttand_F2">Hästtand</object>.</cell>
                 </row> 
                 <row>
                     <cell>F 9:</cell>
-                    <cell><location><geo>022 217</geo></location> -90</cell>
+                    <cell><location><geo>022 217</geo></location> </cell>
+                    <cell>-90</cell>
                     <cell>I <material>svartjordslagret</material>:</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="nithuvud_F9">Rombiskt nithuvud av järn</object> </cell>
@@ -619,14 +691,17 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="jarnring_F9">2 delar av järnring</object></cell>
                 </row>
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="jarnnitar_F9">4 nitar av järn </object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="lerkarl_F9">Lerkärl</object>, <object xml:id="branda_ben_F9">Brända ben</object>, 1 liter</cell>
@@ -643,28 +718,33 @@
                 Vid rensningen påträffades <object xml:id="parla_F1">en pärla av bergkristall</object>.  Anläggningen vilade på <material>sterilt sandlager</material>.
             </p>
             <p>Fynd:</p>
-            <table rows="7" cols="3">
+            <table rows="7" cols="4">
                 <row>
                     <cell>F 1:</cell>
-                    <cell><location><geo>030 213</geo></location> -120</cell>
+                    <cell><location><geo>030 213</geo></location> </cell>
+                    <cell>-120</cell>
                     <cell>Lösfynd, vid rensning:</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="parla_F1">Pärla av bergkristall</object></cell>
                 </row>
                 <row>
                     <cell>F 24:</cell>
-                    <cell><location><geo>028 212</geo></location> -125</cell>
+                    <cell><location><geo>028 212</geo></location> </cell>
+                    <cell>-125</cell>
                     <cell>Utspridda över hela <material>svartjordalagret</material>:</cell>
                 </row>
                 <row>
                     <cell></cell>
-                    <cell><location><geo>031 214</geo></location> -134</cell>
+                    <cell><location><geo>031 214</geo></location> </cell>
+                    <cell>-134</cell>
                     <cell><object xml:id="bryne_F24">Fragment av bryne av sandsten</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="kambitar_F24">Kambitar</object></cell>
@@ -672,9 +752,11 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="krukskarvor_F24">Krukskärvor</object> </cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="branda_ben_F24">Brända ben</object></cell>                                                         
@@ -697,13 +779,15 @@
                 <object xml:id="spannbuckla_F23">ett litet bronsfragment av enskalig  oval spännbuckla</object>, <object xml:id="jarnfragment_F23">6 järnfragment</object>, <object xml:id="kambitar_F23">20-tal fragment av benkam</object> <object xml:id="glasparlor_F23">64 pärlor av glasfluss</object> samt <object xml:id="branda_ben_F23">brända ben</object>.
             </p>
             <p>Fynd:</p>
-            <table rows="9" cols="3">
+            <table rows="9" cols="4">
                 <row>
                     <cell>F 22:</cell>
-                    <cell><location><geo>007 206</geo></location> -242</cell>
+                    <cell><location><geo>007 206</geo></location> </cell>
+                    <cell>-242</cell>
                     <cell>I <material>svartjordslager</material>, omedelbart under </cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><material>stenpackningen</material>:</cell>
@@ -711,19 +795,23 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="lerkarl_F22">Lerkärl, sönderpressat</object>.</cell>
                 </row>
                 <row>
                     <cell>F 23:</cell>
-                    <cell><location><geo>006 206</geo></location> -238</cell>
+                    <cell><location><geo>006 206</geo></location> </cell>
+                    <cell>-238</cell>
                     <cell>Utspridda i <material>kollagret</material>, ca 1 diam:</cell>
                 </row>
                 <row>
                     <cell></cell>
-                    <cell><location><geo>008 207</geo></location> -262</cell>
+                    <cell><location><geo>008 207</geo></location> </cell>
+                    <cell>-262</cell>
                     <cell><object xml:id="spannbuckla_F23">Fragment av enskalig spännbuckla av brons</object>.</cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="jarnfragment_F23">Järnfragment, 6 st</object></cell>
@@ -731,14 +819,17 @@
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="kambitar_F23">Kambitar, 20-tal</object></cell>
                 </row>
                 <row>
                     <cell></cell>
                     <cell></cell>
+                    <cell></cell>
                     <cell><object xml:id="glasparlor_F23">Pärlor av glas eller glasfluss, 64 st</object></cell>
                 </row>
                 <row>
+                    <cell></cell>
                     <cell></cell>
                     <cell></cell>
                     <cell><object xml:id="branda_ben_F23">Brända ben, 2 liter</object>.</cell>
